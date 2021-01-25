@@ -2,7 +2,10 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 I'm Vishal Pandey😃 and currently I am pursuing Bachelor of Engineering from Chandigarh University in Computer Science stream. I was born and raised in a middle-class city named Dibiyapur which is situated in Uttar pradesh. I Loves to read success as well as failure stories and to do things which are new and trending. Connect with me on these handle given below- <br>
-[![Linkedin Badge](https://img.shields.io/badge/-Vishal_pandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishal-pandey-1a7a141b2)](https://www.linkedin.com/in/vishal-pandey-1a7a141b2)  [![Gmail Badge](https://img.shields.io/badge/-vishalps2606@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishalps2606@gmail.com)](mailto:vishalps2606@gmail.com)💬
+<a href="https://twitter.com/VishalP22541789">
+  <img align="left" alt="Vishal Pandey | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+[![Linkedin Badge](https://img.shields.io/badge/-Vishal_pandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishal-pandey-1a7a141b2)](https://www.linkedin.com/in/vishal-pandey-1a7a141b2)  [![Gmail Badge](https://img.shields.io/badge/-vishalps2606@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishalps2606@gmail.com)](mailto:vishalps2606@gmail.com)
 
 ## My Workplaces
 
