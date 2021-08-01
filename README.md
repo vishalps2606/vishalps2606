@@ -13,9 +13,9 @@ I'm Vishal Pandey😃 and currently I am pursuing Bachelor of Engineering from C
 - 🌱 I’m currently learning javaScript and Android development
 - 👯 I’m looking to collaborate on front-end technologies.
 - 🤔 I’m looking for help with Back-end Technologies.
-- 💬 Ask me about Front-end technologies, marketing, Java and Self-motivation stuffs
+- 💬 Ask me about Front-end technologies, Java, and JavaFX.
 - 😄 Pronouns: He/ Him
-- ⚡ Fun fact: Loves to read success as well as failure stories and to do and gain knowledge of things which are new and trending.
+- ⚡ Hobbies: Loves to read success as well as failure stories and to do and gain knowledge of things which are new and trending.
 
 ## Languages and Tools:  
 
