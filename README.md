@@ -11,11 +11,11 @@ I'm Vishal Pandey😃 and currently I am pursuing Bachelor of Engineering from C
 
 - 🔭 I’m currently working on [StuffVish](https://stuffvish.web.app)
 - 🌱 I’m currently learning javaScript and Android development
-- 👯 I’m looking to collaborate on front-end technologies.
+- 👯 I’m looking to collaborate on Java technology and its frameworks, and on front-end technologies.
 - 🤔 I’m looking for help with Back-end Technologies.
 - 💬 Ask me about Front-end technologies, Java, and JavaFX.
 - 😄 Pronouns: He/ Him
-- ⚡ Hobbies: Loves to read success as well as failure stories and to do and gain knowledge of things which are new and trending.
+- ⚡ Hobbies: Loves to read success as well as failure stories and to do and gain knowledge of things which are new and trending. Also finding a way in which I earn money while sleeping.
 
 ## Languages and Tools:  
 
@@ -30,7 +30,7 @@ I'm Vishal Pandey😃 and currently I am pursuing Bachelor of Engineering from C
 ## My Workplaces
 
 - Read my blogs on [Paagalblogger](https://paagalblogger.blogspot.com)
-- Watch my Services which I provide at [Stuffvish](https://stuffvish.web.app)
+- Watch my Services at [Stuffvish](https://stuffvish.web.app)
 - Do subscribe to my channel [here](https://www.youtube.com/channel/UCArwtWBWC202PFBVUOwOjiw/featured)
 - Like us on [facebook](https://www.facebook.com/stuffvish)
 
