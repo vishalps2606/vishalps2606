@@ -1,7 +1,7 @@
 ### Hi there, Fellow contributer <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-I'm Vishal Pandey😃 and currently I am pursuing Bachelor of Engineering from Chandigarh University in Computer Science stream. I was born and raised in a middle-class city named Dibiyapur which is situated in Uttar pradesh. I Loves to read success as well as failure stories and to do things which are new and trending. Connect with me on these handle given below- <br>
+I'm Vishal Pandey😃, a Freelancer on Upwork providing front-end web-development and Web-Designing services. Currently, I am pursuing Bachelor of Engineering from Chandigarh University in Computer Science stream. I was born and raised in a city named Dibiyapur which is situated in Uttar pradesh. I Love to read success as well as failure stories and to do things which are new and trending. Connect with me on these handle given below- <br>
 <a href="https://twitter.com/VishalP22541789">
   <img align="left" alt="Vishal Pandey | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -45,6 +45,7 @@ I'm Vishal Pandey😃 and currently I am pursuing Bachelor of Engineering from C
 
 ## My Workplaces
 
+- Hire me on [Upwork](https://www.upwork.com/freelancers/~0131aff109a781a4e7)
 - Read my blogs on [Paagalblogger](https://paagalblogger.blogspot.com)
 - Watch my Services at [Stuffvish](https://stuffvish.web.app)
 - Do subscribe to my channel [here](https://www.youtube.com/channel/UCArwtWBWC202PFBVUOwOjiw/featured)
