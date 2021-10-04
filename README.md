@@ -5,7 +5,8 @@ I'm Vishal Pandey😃 and currently I am pursuing Bachelor of Engineering from C
 <a href="https://twitter.com/VishalP22541789">
   <img align="left" alt="Vishal Pandey | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-[![Linkedin Badge](https://img.shields.io/badge/-Vishal_pandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishal-pandey-1a7a141b2)](https://www.linkedin.com/in/vishal-pandey-1a7a141b2)  [![Gmail Badge](https://img.shields.io/badge/-vishalps2606@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishalps2606@gmail.com)](mailto:vishalps2606@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Vishal_pandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishal-pandey-1a7a141b2)](https://www.linkedin.com/in/vishal-pandey-1a7a141b2) 
+[![Gmail Badge](https://img.shields.io/badge/-vishalps2606@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishalps2606@gmail.com)](mailto:vishalps2606@gmail.com)
 
 ## Here are my some info about present and near future-
 
@@ -37,10 +38,10 @@ I'm Vishal Pandey😃 and currently I am pursuing Bachelor of Engineering from C
 
 ## Coding Platforms:
 
-<code><img height="40" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></code>
-<code><img height="40" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></code>
-<code><img height="40" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></code>
-<code><img height="40" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></code>
+[![Hackerrank profile](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/vishalps2606)](https://www.hackerrank.com/vishalps2606)
+[![CodeChef profile](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white&link=https://www.codechef.com/users/stuffvish_code)](https://www.codechef.com/users/stuffvish_code)
+[![Codeforces profile](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white&link=https://codeforces.com/profile/StuffVish)](https://codeforces.com/profile/StuffVish)
+[![Stack Overflow profile](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/14377954/vishal)](https://stackoverflow.com/users/14377954/vishal)
 
 ## My Workplaces
 
