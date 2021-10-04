@@ -37,7 +37,10 @@ I'm Vishal Pandey😃 and currently I am pursuing Bachelor of Engineering from C
 
 ## Coding Platforms:
 
-
+<code><img height="40" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></code>
+<code><img height="40" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></code>
+<code><img height="40" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></code>
+<code><img height="40" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></code>
 
 ## My Workplaces
 
