@@ -10,22 +10,34 @@ I'm Vishal Pandey😃 and currently I am pursuing Bachelor of Engineering from C
 ## Here are my some info about present and near future-
 
 - 🔭 I’m currently working on [StuffVish](https://stuffvish.web.app)
-- 🌱 I’m currently learning javaScript and Android development
-- 👯 I’m looking to collaborate on Java technology and its frameworks, and on front-end technologies.
+- 🌱 I’m currently learning Android development and Data Structures & Algorithms.
+- 👯 I’m looking to collaborate on WEB DESIGNING and front-end Web Development Projects.
 - 🤔 I’m looking for help with Back-end Technologies.
-- 💬 Ask me about Front-end technologies, Java, and JavaFX.
+- 💬 Ask me about Front-end technologies, Web Designing, Java, and JavaFX.
 - 😄 Pronouns: He/ Him
 - ⚡ Hobbies: Loves to read success as well as failure stories and to do and gain knowledge of things which are new and trending. Also finding a way in which I earn money while sleeping.
 
-## Languages and Tools:  
+## Languages and Frameworks:  
 
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+## Tools and IDE:
+
+<code><img height="40" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></code>
+<code><img height="40" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></code>
+<code><img height="40" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/></code>
+<code><img height="40" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/></code>
+
+## Coding Platforms:
+
+
 
 ## My Workplaces
 
@@ -34,6 +46,7 @@ I'm Vishal Pandey😃 and currently I am pursuing Bachelor of Engineering from C
 - Do subscribe to my channel [here](https://www.youtube.com/channel/UCArwtWBWC202PFBVUOwOjiw/featured)
 - Like us on [facebook](https://www.facebook.com/stuffvish)
 
+![Vishal's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalps2606)
 ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=vishalps2606&hide=["issues"]&show_icons=true&hide_border=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vishalps2606.vishalps2606)
