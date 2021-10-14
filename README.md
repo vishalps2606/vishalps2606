@@ -5,8 +5,8 @@ I'm Vishal Pandey😃, a Freelancer on Upwork providing front-end web-developmen
 <a href="https://twitter.com/VishalP22541789">
   <img align="left" alt="Vishal Pandey | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-[![Linkedin Badge](https://img.shields.io/badge/-Vishal_pandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishal-pandey-1a7a141b2)](https://www.linkedin.com/in/vishal-pandey-1a7a141b2) 
-[![Gmail Badge](https://img.shields.io/badge/-vishalps2606@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishalps2606@gmail.com)](mailto:vishalps2606@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Vishal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishal-pandey-1a7a141b2)](https://www.linkedin.com/in/vishal-pandey-1a7a141b2) 
+[![Gmail Badge](https://img.shields.io/badge/-Vishal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishalps2606@gmail.com)](mailto:vishalps2606@gmail.com)
 
 ## Here are my some info about present and near future-
 
