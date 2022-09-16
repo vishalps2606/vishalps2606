@@ -14,11 +14,11 @@ I'm Vishal Pandey😃, a Freelancer on Upwork providing front-end web-developmen
 
 ## Here are my some info about present and near future-
 
-- 🔭 I’m currently working on FitBuddies(An Android Fitness & Wellness Application) and Seeking full-time Job or Internship's Opportunity(SDE).
-- 🌱 I’m currently learning Android development and Data Structures & Algorithms.
+- 🔭 I’m currently working on my Logic Building and try to Solve atleast 1 problem daily on Leetcode and Seeking full-time Job or Internship's Opportunity(SDE).
+- 🌱 I’m currently learning Data Structures & Algorithms along with Placement Preparation.
 - 👯 I’m looking to collaborate on Android Projects and Full-fledged Project(containing Database, analytics, FrontEnd, Backend etc.).
 - 🤔 I’m looking for help with Graphs(DSA) and Web3.
-- 💬 Ask me about Front-end technologies, Core Java, SQL, MySQL and Android Development.
+- 💬 Ask me about Core Java, SQL, MySQL and Little-bit about HTML, CSS and Bootstrap.
 - 😄 Pronouns: He/ Him
 - ⚡ Hobbies: Playing Chess(not a grandmaster) and exploring the UNEXPLORED.
 
@@ -52,6 +52,7 @@ I'm Vishal Pandey😃, a Freelancer on Upwork providing front-end web-developmen
 
 ## My Workplaces
 
+- Check my portfolio [here](https://vishalpstuffvish.web.app)
 - Hire me on [Upwork](https://www.upwork.com/freelancers/~0131aff109a781a4e7)
 - Read my blogs on [Paagalblogger](https://paagalblogger.blogspot.com)
 - Watch my Services at [Stuffvish](https://stuffvish.web.app)
