@@ -1,7 +1,7 @@
 ### Hi there, Fellow contributer <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-I'm Vishal Pandey😃, a Freelancer on Upwork providing front-end web-development and Web-Designing services. Currently, I am pursuing Bachelor of Engineering from Chandigarh University in Computer Science stream. I was born and raised in a city named Dibiyapur which is situated in Uttar pradesh. I Love to read success as well as failure stories and to do things which are new and trending. Connect with me on these handle given below- <br>
+I'm Vishal Pandey😃 and I was born and raised in a town called Dibiyapur, situated in Uttar pradesh. Currently, I am pursuing Bachelor of Engineering from Chandigarh University in Computer Science stream.  I have Solved more than 300 problems on Leetcode and 600+ DSA questions collectively on platforms like Hackerrank, GFG and Leetcode. I Love to read success as well as failure stories and to do things which are new and trending. Connect with me on these handle given below- <br>
 
 <!-- <a href="https://twitter.com/VishalP22541789">
   <img align="left" alt="Vishal Pandey | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -45,8 +45,8 @@ I'm Vishal Pandey😃, a Freelancer on Upwork providing front-end web-developmen
 
 [![LeetCode Profile](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&link=https://leetcode.com/stuffvish_code)](https://leetcode.com/stuffvish_code)
 [![Hackerrank profile](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/vishalps2606)](https://www.hackerrank.com/vishalps2606)
-[![CodeChef profile](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white&link=https://www.codechef.com/users/stuffvish_code)](https://www.codechef.com/users/stuffvish_code)
 [![GFG Profile](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/vishalps2606/practice)](https://auth.geeksforgeeks.org/user/vishalps2606/practice)
+<!-- [![CodeChef profile](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white&link=https://www.codechef.com/users/stuffvish_code)](https://www.codechef.com/users/stuffvish_code) -->
 [![Codeforces profile](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white&link=https://codeforces.com/profile/StuffVish)](https://codeforces.com/profile/StuffVish)
 [![Stack Overflow profile](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/14377954/vishal)](https://stackoverflow.com/users/14377954/vishal)
 
