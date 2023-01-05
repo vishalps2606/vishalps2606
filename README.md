@@ -16,9 +16,9 @@ I'm Vishal Pandey😃 and I was born and raised in a town called Dibiyapur, situ
 
 - 🔭 I’m currently working on my Logic Building and try to Solve atleast 1 problem daily on Leetcode and Seeking full-time Job or Internship's Opportunity(SDE).
 - 🌱 I’m currently learning Data Structures & Algorithms along with Placement Preparation.
-- 👯 I’m looking to collaborate on Android Projects and Full-fledged Project(containing Database, analytics, FrontEnd, Backend etc.).
-- 🤔 I’m looking for help with Graphs(DSA) and Web3.
-- 💬 Ask me about Core Java, SQL, MySQL and Little-bit about HTML, CSS and Bootstrap.
+- 👯 I’m looking to collaborate on Full-stack Web Projects(containing Database, analytics, FrontEnd, Backend etc.).
+- 🤔 I’m looking for help with Web3 and placements.
+- 💬 Ask me about Core Java, SQL and front-end technologies.
 - 😄 Pronouns: He/ Him
 - ⚡ Hobbies: Playing Chess(not a grandmaster) and exploring the UNEXPLORED.
 
