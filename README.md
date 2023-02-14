@@ -1,7 +1,7 @@
 ### Hi there, Fellow contributer <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-I'm Vishal Pandey😃 and I was born and raised in a town called Dibiyapur, situated in Uttar pradesh. Currently, I am pursuing Bachelor of Engineering from Chandigarh University in Computer Science stream.  I have Solved more than 300 problems on Leetcode and 600+ DSA questions collectively on platforms like Hackerrank, GFG and Leetcode. I Love to read success as well as failure stories and to do things which are new and trending. Connect with me on these handle given below- <br>
+I'm Vishal Pandey😃 and I was born and raised in a town called Dibiyapur, situated in Uttar pradesh. Currently, I am pursuing Bachelor of Engineering from Chandigarh University in Computer Science stream.  I have Solved more than 400 problems on Leetcode and 700+ DSA questions collectively on platforms like Hackerrank, GFG and Leetcode. I Love to read success as well as failure stories and to do things which are new and trending. Connect with me on these handle given below- <br>
 
 <!-- <a href="https://twitter.com/VishalP22541789">
   <img align="left" alt="Vishal Pandey | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
