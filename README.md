@@ -14,8 +14,8 @@ I'm Vishal Pandey😃 and I was born and raised in a town called Dibiyapur, situ
 
 ## Here are my some info about present and near future-
 
-- 🔭 I’m currently working on building a project using Angular as a front-end and Java, postgreSQL as Backend.
-- 🌱 I’m currently learning Angular and trying to flexible in bitbucket.
+- 🔭 I’m currently working on a project as a frontend developer using Angular.
+- 🌱 I’m currently learning Web designing.
 - 👯 I’m looking to collaborate on Full-stack Web Projects(containing Database, analytics, FrontEnd, Backend etc.).
 - 🤔 I’m looking for help with Web3 and Blockchain.
 - 💬 Ask me about Core Java, SQL and front-end technologies.
@@ -25,6 +25,7 @@ I'm Vishal Pandey😃 and I was born and raised in a town called Dibiyapur, situ
 ## Languages and Frameworks:  
 
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
