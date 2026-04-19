@@ -8,17 +8,17 @@ I'm Vishal Pandey😃 and I was born and raised in a town called Dibiyapur, situ
 </a> -->
 
 <!-- Contact Profiles -->
-[![Twitter Profile](https://img.shields.io/badge/Vishal-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/VishalP22541789)](https://twitter.com/VishalP22541789)
-[![Linkedin Badge](https://img.shields.io/badge/-Vishal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishal-pandey-1a7a141b2)](https://www.linkedin.com/in/vishal-pandey-1a7a141b2) 
+[![X Profile](https://img.shields.io/badge/Vishal-1DA1F2?style=flat-square&logo=X&logoColor=black&link=[https://x.com/VP_code_n_lift](https://x.com/VP_code_n_lift))](https://x.com/VP_code_n_lift)
+[![Linkedin Badge](https://img.shields.io/badge/Vishal-blue?style=flat-square&logo=linkedIn&logoColor=white&link=[https://www.linkedin.com/in/vishalps2606](https://www.linkedin.com/in/vishalps2606))](https://www.linkedin.com/in/vishalps2606)
 [![Gmail Badge](https://img.shields.io/badge/-Vishal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishalps2606@gmail.com)](mailto:vishalps2606@gmail.com)
 
 ## Here are my some info about present and near future-
 
-- 🔭 I’m currently working on my personal portfolio(you'll get the deployed link soon).
-- 🌱 I’m currently learning AI, LLM.
-- 👯 I’m looking to collaborate on Full-stack Web Projects(containing Database, FrontEnd, Backend etc.).
-- 🤔 I’m looking for help with understanding vectors.
-- 💬 Ask me about Core Java, Spring boot, Databases(MySQL, PostGres, Mongo) and front-end(Angular, NextJs & React).
+- 🔭 I’m currently working on [Ocix.in](https://ocix.in).
+- 🔭 I've completed my portfolio, checkout -> [vishaldevlift.in](https://vishaldevlift.in)
+- 🌱 I’m currently learning AgenticAI & marketing.
+- 👯 I’m open to collaborate on Business ideas, primarly saas.
+- 💬 Ask me about Core Java, Spring boot, Databases(MySQL, PostGres, Mongo), Kafka and front-end(Angular, NextJs & React).
 - 😄 Pronouns: He/ Him
 - ⚡ Hobbies: Playing Chess(not a grandmaster) and exploring the UNEXPLORED.
 
@@ -53,16 +53,12 @@ I'm Vishal Pandey😃 and I was born and raised in a town called Dibiyapur, situ
 
 ## My Workplaces
 
-- Check my portfolio [here](https://vishalpstuffvish.web.app)
-- Hire me on [Upwork](https://www.upwork.com/freelancers/~0131aff109a781a4e7)
-- Read my blogs on [Paagalblogger](https://paagalblogger.blogspot.com)
-- Watch my Services at [Stuffvish](https://stuffvish.web.app)
-- Do subscribe to my channel [here](https://www.youtube.com/channel/UCArwtWBWC202PFBVUOwOjiw/featured)
-- Like us on [facebook](https://www.facebook.com/stuffvish)
+- Check my portfolio -> [vishaldevlift.in](https://vishaldevlift.in)
+- Hire me on -> [Upwork](https://www.upwork.com/freelancers/~0131aff109a781a4e7)
+- Read my blogs on -> [Paagalblogger](https://paagalblogger.blogspot.com)
+- Watch my Services at -> [Ocix.in](https://ocix.in)
 
 
 <!-- Some Facts and Figures -->
 ![Vishal's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalps2606)
-![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=vishalps2606&hide=["issues"]&show_icons=true&hide_border=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vishalps2606.vishalps2606)
+![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=vishalps2606&show_icons=true&hide_border=true)
