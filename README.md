@@ -1,64 +1,108 @@
-### Hi there, Fellow contributer <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<h1 align="center">🚀 Vishal Pandey</h1>
+<h3 align="center">Backend Engineer | SaaS Builder | System Thinker</h3>
 
-I'm Vishal Pandey😃 and I was born and raised in a town called Dibiyapur, situated in Uttar pradesh. Currently, I am a working as a Software Developer at Evernorth Health Services. I pursuid my Bachelor of Engineering from Chandigarh University in Computer Science stream.  I have Solved more than 400 problems on Leetcode and 700+ DSA questions collectively on platforms like Hackerrank, GFG and Leetcode. I Love to read success as well as failure stories and to do things which are new and trending. Connect with me on these handle given below- <br>
+<p align="center">
+  <i>Either I ship, or I don’t belong here.</i>
+</p>
 
-<!-- <a href="https://twitter.com/VishalP22541789">
-  <img align="left" alt="Vishal Pandey | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> -->
+---
 
-<!-- Contact Profiles -->
-[![X Profile](https://img.shields.io/badge/Vishal-1DA1F2?style=flat-square&logo=X&logoColor=black&link=[https://x.com/VP_code_n_lift](https://x.com/VP_code_n_lift))](https://x.com/VP_code_n_lift)
-[![Linkedin Badge](https://img.shields.io/badge/Vishal-blue?style=flat-square&logo=linkedIn&logoColor=white&link=[https://www.linkedin.com/in/vishalps2606](https://www.linkedin.com/in/vishalps2606))](https://www.linkedin.com/in/vishalps2606)
-[![Gmail Badge](https://img.shields.io/badge/-Vishal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishalps2606@gmail.com)](mailto:vishalps2606@gmail.com)
+## 👨‍💻 Who am I?
 
-## Here are my some info about present and near future-
+I build **scalable backend systems** and **developer-focused SaaS products**.
 
-- 🔭 I’m currently working on [Ocix.in](https://ocix.in).
-- 🔭 I've completed my portfolio, checkout -> [vishaldevlift.in](https://vishaldevlift.in)
-- 🌱 I’m currently learning AgenticAI & marketing.
-- 👯 I’m open to collaborate on Business ideas, primarly saas.
-- 💬 Ask me about Core Java, Spring boot, Databases(MySQL, PostGres, Mongo), Kafka and front-end(Angular, NextJs & React).
-- 😄 Pronouns: He/ Him
-- ⚡ Hobbies: Playing Chess(not a grandmaster) and exploring the UNEXPLORED.
+- Backend Developer at **Evernorth Health Services**
+- 2.5+ years building production-grade systems in fintech & healthcare
+- Strong focus on **system design, performance, and reliability**
+- Currently building → **https://ocix.in** (productivity systems for serious builders)
 
-## Languages and Frameworks:  
+---
 
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<!-- <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> -->
+## ⚡ What I Actually Do
 
-## Tools and IDE:
+- Design and build **microservices with Spring Boot**
+- Work with **Kafka, distributed systems & async architectures**
+- Build **robust REST APIs** with performance in mind
+- Handle **real-world debugging, failures, and production issues**
+- Build **end-to-end SaaS products** (Backend + Frontend)
 
-<code><img height="40" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></code>
-<code><img height="40" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></code>
-<code><img height="40" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></code>
-<code><img height="40" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/></code>
-<code><img height="40" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></code>
+---
 
-## Coding Platforms:
+## 🧠 Current Focus
 
-[![LeetCode Profile](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&link=https://leetcode.com/stuffvish_code)](https://leetcode.com/stuffvish_code)
-[![Hackerrank profile](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/vishalps2606)](https://www.hackerrank.com/vishalps2606)
-[![GFG Profile](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/vishalps2606/practice)](https://auth.geeksforgeeks.org/user/vishalps2606/practice)
-<!-- [![CodeChef profile](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white&link=https://www.codechef.com/users/stuffvish_code)](https://www.codechef.com/users/stuffvish_code) -->
-[![Codeforces profile](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white&link=https://codeforces.com/profile/StuffVish)](https://codeforces.com/profile/StuffVish)
-[![Stack Overflow profile](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/14377954/vishal)](https://stackoverflow.com/users/14377954/vishal)
+- 🚀 Building **Ocix** → turning discipline into software  
+- 🤖 Learning **Agentic AI + product distribution**  
+- 🏗 Improving **system design for scale**
 
-## My Workplaces
+---
 
-- Check my portfolio -> [vishaldevlift.in](https://vishaldevlift.in)
-- Hire me on -> [Upwork](https://www.upwork.com/freelancers/~0131aff109a781a4e7)
-- Read my blogs on -> [Paagalblogger](https://paagalblogger.blogspot.com)
-- Watch my Services at -> [Ocix.in](https://ocix.in)
+## 🛠 Tech Stack
 
+### Backend
+- Java, Spring Boot, Microservices  
+- Kafka, REST APIs  
+- MySQL, PostgreSQL, MongoDB  
 
-<!-- Some Facts and Figures -->
-![Vishal's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalps2606)
-![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=vishalps2606&show_icons=true&hide_border=true)
+### Frontend
+- React, Next.js, Angular  
+
+### Tools
+- IntelliJ IDEA, VS Code  
+- Git, Postman  
+- Docker *(if you actively use it, keep it — otherwise remove)*  
+
+---
+
+## 📊 Proof of Work
+
+- Solved **400+ LeetCode problems**  
+- **700+ DSA problems** across platforms  
+- Built **production-grade APIs and systems**  
+- Experience working on **real-world scale and debugging**
+
+---
+
+## 🧩 Projects & Work
+
+- 🔥 **Ocix** → https://ocix.in  
+- 🌐 **Portfolio** → https://vishaldevlift.in  
+- 💼 **Upwork** → https://www.upwork.com/freelancers/~0131aff109a781a4e7  
+- ✍️ **Blog** → https://paagalblogger.blogspot.com  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalps2606&show_icons=true&hide_border=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalps2606&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishalps2606"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/VP_code_n_lift"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white"/></a>
+  <a href="mailto:vishalps2606@gmail.com"><img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## ⚠️ For Recruiters
+
+If you're looking for someone who:
+- Understands **systems, not just syntax**
+- Can **own features end-to-end**
+- Actually **ships products**
+
+Then we should talk.
+
+---
+
+## ⚡ For Builders
+
+If you're serious about building something meaningful →  
+👉 https://ocix.in
