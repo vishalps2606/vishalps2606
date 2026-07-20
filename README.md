@@ -7,6 +7,8 @@
 
 ---
 
+[![Vigilante Streak](https://vigilante.ocix.in/api/badge/vishalps2606)](https://vigilante.ocix.in/audit/vishalps2606)
+
 ## 👨‍💻 Who am I?
 
 I build **scalable backend systems** and **developer-focused SaaS products**.
