@@ -15,8 +15,6 @@
 
 [Run the free Vigilante github Audit/Roast - no signup](https://vigilante.ocix.in/audit?utm_source=github&utm_medium=profile_readme&utm_campaign=always_on)
 
-[![Vigilante Streak](https://vigilante.ocix.in/api/badge/vishalps2606)](https://vigilante.ocix.in/audit/vishalps2606)
-
 ## 👨‍💻 Who am I?
 
 I build **scalable backend systems** and **developer-focused SaaS products**.
@@ -117,3 +115,6 @@ Then we should talk.
 
 If you're serious about building something meaningful →  
 👉 https://ocix.in
+
+[![Vigilante Streak](https://vigilante.ocix.in/api/badge/vishalps2606)](https://vigilante.ocix.in/audit/vishalps2606)
+
