@@ -50,8 +50,9 @@ I build **scalable backend systems** and **developer-focused SaaS products**.
 
 ### Tools
 - IntelliJ IDEA, VS Code  
-- Git, Postman  
-- Docker *(if you actively use it, keep it — otherwise remove)*  
+- Git, Postman
+- Openshift
+- Jira, Confluence, CI/CD
 
 ---
 
