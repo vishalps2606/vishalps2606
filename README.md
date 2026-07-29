@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Vishal Pandey</h1>
+<h1 align="center">🚀 Vishal Pandey | Building Ocix.in</h1>
 <h3 align="center">Backend Engineer | SaaS Builder | System Thinker</h3>
 
 <p align="center">
@@ -6,6 +6,14 @@
 </p>
 
 ---
+
+| Product | Status |
+|---|---|
+| Vigilante | Live |
+| GymX | In development |
+| DraftShield | In development |
+
+[Run the free Vigilante github Audit/Roast - no signup](https://vigilante.ocix.in/audit?utm_source=github&utm_medium=profile_readme&utm_campaign=always_on)
 
 [![Vigilante Streak](https://vigilante.ocix.in/api/badge/vishalps2606)](https://vigilante.ocix.in/audit/vishalps2606)
 
