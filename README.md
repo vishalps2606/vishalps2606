@@ -7,9 +7,9 @@
 
 ---
 
-| Product | Status |
-|---|---|
-| Vigilante | Live |
+| Product | Status | Type |
+|---|---|---|
+| Vigilante | Live | Web App |
 | GymX | In development |
 | DraftShield | In development |
 
