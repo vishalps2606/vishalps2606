@@ -22,7 +22,7 @@ I build **scalable backend systems** and **developer-focused SaaS products**.
 - Backend Developer at **Evernorth Health Services**
 - 2.5+ years building production-grade systems in fintech & healthcare
 - Strong focus on **system design, performance, and reliability**
-- Currently building → **https://ocix.in** (productivity systems for serious builders)
+- Currently building → **[Ocix.in](https://ocix.in)** (productivity systems for serious builders)
 
 ---
 
