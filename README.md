@@ -9,7 +9,7 @@
 
 | Product | Status | Type |
 |---|---|---|
-| Vigilante | Live | Web App |
+| [Vigilante](https://vigilante.ocix.in) | Live | Web App |
 | GymX | In development |
 | DraftShield | In development |
 
